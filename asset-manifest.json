@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/biodata-react/static/css/main.f855e6bc.css",
+    "main.js": "/biodata-react/static/js/main.53a1ce6e.js",
+    "static/js/787.6ffbd1cc.chunk.js": "/biodata-react/static/js/787.6ffbd1cc.chunk.js",
+    "static/media/logo.svg": "/biodata-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/biodata-react/index.html",
+    "main.f855e6bc.css.map": "/biodata-react/static/css/main.f855e6bc.css.map",
+    "main.53a1ce6e.js.map": "/biodata-react/static/js/main.53a1ce6e.js.map",
+    "787.6ffbd1cc.chunk.js.map": "/biodata-react/static/js/787.6ffbd1cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.53a1ce6e.js"
+  ]
+}
